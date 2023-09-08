@@ -12,7 +12,7 @@ This functionality allows the user to create notes or code snippets with or with
 
 ## Installation
 
-The code may be accessed by visiting the [GitHub repository](https://github.com/choelzli/text-editor-pwa) or visiting the site [URL](https://express-text-editor-pwa-ch-[update].herokuapp.com/).
+The code may be accessed by visiting the [GitHub repository](https://github.com/choelzli/text-editor-pwa) or visiting the [deployed application](https://express-text-editor-pwa-ch-[update].herokuapp.com/).
 
 Clone the repo:
 ```
@@ -26,7 +26,7 @@ After installing the required dependencies, type the following command in the Te
 ```
 npm run start
 ```
-Then access in Thunder Client and type http://localhost:3000/
+Then access the application via http://localhost:3000/.
 
 ---
 
