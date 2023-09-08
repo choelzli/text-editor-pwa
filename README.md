@@ -12,7 +12,7 @@ This functionality allows the user to create notes or code snippets with or with
 
 ## Installation
 
-The code may be accessed by visiting the [GitHub repository](https://github.com/choelzli/text-editor-pwa) or visiting the [deployed application](https://express-text-editor-pwa-ch-[update].herokuapp.com/).
+The code may be accessed by visiting the [GitHub repository](https://github.com/choelzli/text-editor-pwa) or visiting the [deployed application](https://text-editor-pwa-ch-a6354ecf702e.herokuapp.com/).
 
 Clone the repo:
 ```
